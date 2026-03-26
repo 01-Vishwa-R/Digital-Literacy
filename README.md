@@ -1,9 +1,9 @@
 # Digital Literacy Project
 
 **Name:** Vishwa R  
-**Registration Number:** [Your Reg No]  
+**Registration Number:** 25BCE10342  
 **Course:** CSE0001 – Digital Literacy  
-**Institution:** VIT Bhopal University  
+
 
 ---
 
@@ -49,3 +49,34 @@ Set up and updated professional profiles on platforms like GitHub and LinkedIn t
 ---
 
 ## 📁 Repository Structure
+
+digital-literacy-project/
+│
+├── README.md
+├── report/
+│ └── Project_Report.pdf
+│
+├── task-1-presentation/
+├── task-2-portfolio/
+├── task-3-platforms/
+├── task-4-email-etiquette/
+├── task-5-cybercrime/
+
+
+---
+
+## 📚 Key Learnings
+
+- Importance of responsible digital behavior  
+- How to maintain a professional online identity  
+- Effective communication in formal environments  
+- Awareness of cyber threats and prevention methods  
+
+---
+
+## 📎 Conclusion
+
+This project helped me understand that digital literacy goes beyond just using tools. It involves awareness, responsibility, and making informed decisions while interacting in digital environments.
+
+---
+
